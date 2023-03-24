@@ -19,6 +19,7 @@
   "homepage": "https://github.com/GilGuereque/crud-express-mongo#readme",
   "dependencies": {
     "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
     "express": "^4.18.2",
     "mongodb": "^5.1.0"
   },
