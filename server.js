@@ -25,6 +25,7 @@ true })
   //MIDDLEWARES
   app.set('view engine', 'ejs');
 
+
   // ROUTES
   // setting body-parser before CRUD handlers
   app.use(bodyParser.urlencoded({ extended: true }));
